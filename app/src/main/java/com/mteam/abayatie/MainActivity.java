@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void MM(){
-        Toast.makeText(this, "Zoombie", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Zoombie2", Toast.LENGTH_SHORT).show();
+
     }
 }
